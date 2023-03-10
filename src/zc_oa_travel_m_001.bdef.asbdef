@@ -1,0 +1,8 @@
+projection;
+
+define behavior for ZC_OA_TRAVEL_M_001 alias TravelProcessor
+{
+  use create;
+  use update;
+  use delete;
+}
